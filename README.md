@@ -47,17 +47,7 @@ The notebook is organised sequentially, beginning with the common reconstruction
 
 Some experiment blocks are computationally expensive and can be disabled when previously computed results are available. GPU acceleration is required for the ASTRA projection and backprojection operations used in the reconstruction experiments.
 
-## Dissertation
-
-This repository accompanies the MSc dissertation:
-
-**"Implementation and Analysis of Iterative Reconstruction for Helical Cone-Beam CT"**
-
-MSc Applied Mathematics  
-Department of Mathematics  
-The University of Manchester  
-2026
 
 ## Author
 
-Jiayu Di
+Jayla (Jiayu Di)
