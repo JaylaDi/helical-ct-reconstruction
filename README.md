@@ -51,7 +51,7 @@ Some experiment blocks are computationally expensive and can be disabled when pr
 
 This repository accompanies the MSc dissertation:
 
-**"[FINAL DISSERTATION TITLE]"**
+**"Implementation and Analysis of Iterative Reconstruction for Helical Cone-Beam CT"**
 
 MSc Applied Mathematics  
 Department of Mathematics  
